@@ -1,7 +1,7 @@
 # Facebook ads
 
 ## ye olde 20 percent rule
-Facebook's 20% rule is dead (or will be soon for everyone).
+Facebook's 20% rule is dead (but not really). Images with more than 20% text will be marked as 'text-heavy' and the quality score will suffer. This means you can still use the ad tile but it will cost more to reach your audience.
 
 New guidance on the low/medium/high ratings can be found here: https://www.facebook.com/business/help/980593475366490
 
